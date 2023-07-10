@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forum</title>
-</head>
-<body>
-    <form>
-        
-    </form>
-</body>
-</html>
+<?php $title = "Forum"?>
+<?php require 'partials/top.php';?>
+<?php require 'partials/nav.php';?>
+<?php require 'partials/bottom.php';?>
